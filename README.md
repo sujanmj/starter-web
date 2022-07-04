@@ -7,8 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 new edit for example 
 
-<<<<<<< HEAD
-new edit 
-=======
-new edit in sujan
->>>>>>> 0fabe90 ( new edit readme in sujan)
+( new edit readme in sujan)
