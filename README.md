@@ -13,3 +13,4 @@ new edit for example
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+ok
